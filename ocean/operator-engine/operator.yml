@@ -30,15 +30,15 @@ spec:
         - name: ACCOUNT_PASSWORD
           value: somepassword
         - name: AWS_ACCESS_KEY_ID
-          value: AKIAJN34G74PHPTFKBPQ
+          value: test
         - name: AWS_SECRET_ACCESS_KEY
-          value: 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
+          value:
         - name: AWS_REGION
-          value: ap-south-1
+          value:
         - name: AWS_BUCKET_OUTPUT
-          value: "testingforoceanprotocol"
+          value:
         - name: AWS_BUCKET_ADMINLOGS
-          value: "testingforoceanprotocol"
+          value: 
         - name: STORAGE_CLASS
           value: oceansc
         - name: POD_CONFIGURATION_CONTAINER
